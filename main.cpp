@@ -10,7 +10,7 @@ int count,ver;                   //try changing n into 63728127 :)
 bool even (int n);
 
 int main() {
-cout<<"Insert a number: ";
+cout<<"Enter a number: ";
 cin>>n;
 cout<<n<<endl;
 
