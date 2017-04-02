@@ -4,7 +4,7 @@
 #include <iostream>
 using namespace std;
 
-long long n;                     //you can turn the variable to long double if you want to try with bigger numbers, but it will print the number in scientific notation 
+long long n;                     //you can change the variable to long double if you want to try with bigger numbers, but it will print the number in scientific notation 
 int count,ver;                   //try changing n into 63728127 :)
 
 bool even (int n);
